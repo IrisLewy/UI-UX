@@ -26,8 +26,8 @@ function CharacterIntro() {
     React.createElement(
       "div",
       { className: "character-image-wrapper" },
-      React.createElement("img", { src: "images/Kitasan.jpg", alt: "Kitasan Black", className: "character-image-default" }),
-      React.createElement("img", { src: "images/KitasanBlack.jpg", alt: "Kitasan Black Race", className: "character-image-transformed" })
+      React.createElement("img", { src="images/Kitasan.jpg", alt: "Kitasan Black", className: "character-image-default" }),
+      React.createElement("img", { src="images/KitasanBlack.jpg", alt: "Kitasan Black Race", className: "character-image-transformed" })
     )
   );
 }
